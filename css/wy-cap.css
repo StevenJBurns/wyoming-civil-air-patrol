@@ -2,10 +2,10 @@
 
 body {margin: 48px; color:#000000;background:#5555FF;font-family:Calibri, Verdana}
 
-header {color: #FFF}
+header {color: #FFF; background-color: #0000DD;}
 footer {}
 
-h1 {}
+h1 {text-align:center;}
 h2 {}
 h3 {}
 h4 {}
