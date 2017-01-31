@@ -1,0 +1,29 @@
+#ul-faq{}
+
+article
+  {
+  margin: 16px 96px 16px 96px;
+  padding: 0;
+  border-radius: 8px;
+  background: #909090
+  }
+
+.question 
+  {
+  margin: 18px auto;
+  color: #FFFFFF;
+  /* background: #F0F0F0;*/
+  font-size: 1.25em;
+  font-weight: bolder;
+  text-align: center;
+  }
+
+.response
+  {
+  margin: 0;
+  padding: 4px;
+  color: #000000;
+  background: #FFFFFF;
+  font-weight: bolder;
+  border-radius: 0 0 8px 8px;
+  }

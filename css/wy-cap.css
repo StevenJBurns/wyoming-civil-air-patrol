@@ -1,10 +1,9 @@
 ﻿html {}
 
-header {}
+body {margin: 48px; color:#000000;background:#5555FF;font-family:Calibri, Verdana}
+
+header {color: #FFF}
 footer {}
-
-
-body {color:#FFFFFF;background:#BBBBFF;font-family:Calibri, Verdana}
 
 h1 {}
 h2 {}
@@ -16,3 +15,5 @@ h6 {}
 div {}
 
 a {}
+
+hr {}
