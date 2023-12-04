@@ -1,4 +1,9 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.root": "./src",
+    "liveServer.settings.mount": [],
+    "liveServer.settings.host": "localhost"
 }
