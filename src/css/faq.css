@@ -1,40 +1,38 @@
-#ul-faq{}
+nav ul {
+  list-style: none;
+}
 
-article
-  {
+article {
   margin: 16px 96px 16px 96px;
   padding: 0;
   border-radius: 8px;
-  border-width: 1px;
-  border-color: #000;
+  border-width: 2px;
+  border-color: #777;
   border-style: solid;
   background: #909090;
-  }
+}
 
-.question 
-  {
+.question {
   margin: 18px auto;
   padding: 4px 12px;
   color: #FFFFFF;
   font-weight: bolder;
-  }
+}
 
-.response
-  {
+.response {
   margin: 0;
   padding: 4px 12px;
   color: #000000;
   background: #FFFFFF;
   font-weight: bolder;
   border-radius: 0 0 8px 8px;
-  }
+  display: none;
+}
 
-.fact
-  {
+.fact {
   background-color: #c7ffc4;
-  }
+}
 
-.myth
-  {
+.myth {
   background-color: #ffb5b5;
-  }
+}
